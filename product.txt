@@ -1,0 +1,68 @@
+Here is the list of food and drink names from the provided information:
+
+Drinks:
+1. Berry & Pomegranate Green Tea
+2. Cappuccino Frappe
+3. Caramel Vanilla Frappe
+4. Coffee Crème Brûlée Frappe
+5. Cold Brew
+6. Cookie Crumble Frappe
+7. Dark Chocolate Frappe
+8. Hot Americano
+9. Hot Cafe Latte
+10. Hot Cafe Mocha
+11. Hot Cappuccino
+12. Hot Caramel Latte
+13. Hot Chocolate
+14. Hot Coffee Indochine
+15. Hot Tea
+
+16. Hot Vietnamese Latte
+17. Hot White Chocolate Mocha
+
+18. Iced Americano
+//19. Iced Ca Phe Sua Da
+20. Iced Cafe Latte
+
+21. Iced Cappuccino
+//22. Iced Caramel Latte
+23. Iced Chocolate
+//24. Iced Coffee Indochine
+//25. Iced Café Mocha
+26. Iced Tea
+//27. Iced White Mocha
+28. Lemon Lychee Tea
+29. Mocha Frappe
+
+30. Strawberry Vanilla Frappe
+//31. Sweet Cold Brew
+32. Vanilla Macadamia Frappe
+33. Java Chip Frappe
+//34. Mocha Java Chip Frappe
+
+Food:
+1. Tuna Melt Sandwich
+2. Spam and Egg Sandwich
+3. Bacon 4 Cheese Sandwich
+4. Carbonara
+5. Arrabbiata Penne
+6. Creamy Pesto & Mushroom Pasta
+7. Sausage and Garlic Pasta in Olive Oil
+8. Chicken Alfredo Penne
+//9. Beef Tapa
+10. Boneless Bangus with Rice
+
+11. Garlic Longganisa
+12. Mushroom Omelette
+13. Ham and Cheese Omelette
+
+14. French Toast
+//15. All-Day Breakfast Corned Beef
+16. Fish and Chips
+17. Cheese Pizza
+18. Pepperoni Pizza
+19. Godfather Pizza
+20. Chicken Parmigiana with Hot Pepper Rice
+//21. Mushroom and Garlic Chicken
+
+Please note that the list may not be exhaustive and may not include any additional items that are not mentioned in the provided information.
